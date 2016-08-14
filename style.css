@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	
+	width: 700px;
+	margin: auto;
+}
+#segundo{
+	color: blue;
+}
+ul{
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
